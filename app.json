@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 𝐃𝐈𝐋𝐉𝐀𝐋𝐄  ™",
+    "name": "𝐓𝐞𝐱𝐭 Uploader Raj  ™",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://envs.sh/srE.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/hackercoder24/updatetxt2vid",
-    "success_url": "https://telegram.me/diljalechatsherebot",
+    "success_url": "https://telegram.me/raj0056772",
     "stack": "container",
     "env": {
         "API_ID": {

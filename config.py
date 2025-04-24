@@ -8,17 +8,17 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-#OWNER = int(os.environ.get("OWNER", 8144269730))
+#OWNER = int(os.environ.get("OWNER", 1843979302))
 
-#LOG = -1002539302851,
+#LOG = -1002635745651,
 
 # UPDATE_GRP = , # bot sat group
 
-# auth_chats = []
+# auth_chats = [1843979302]
 
 #try:
-    #ADMINS=[8144269730]
-    #for x in (os.environ.get("ADMINS", "8144269730").split()):
+    #ADMINS=[1843979302]
+    #for x in (os.environ.get("ADMINS", "1843979302").split()):
         #ADMINS.append(int(x))
 #except ValueError:
         #raise Exception("Your Admins list does not contain valid integers.")
